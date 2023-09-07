@@ -8,7 +8,7 @@
   
 - Bachelor's degree in Computer Science from Jordan University of Science and Technology (JUST).
   
-- I’m currently studing `Backend Development`
+- I’m currently learning `Backend Development`
   
 - How to reach me `ahmadmelwan02@gmail.com`
 
