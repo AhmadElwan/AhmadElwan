@@ -13,7 +13,7 @@
   
 - I’m currently learning `Backend Development`
   
-- How to reach me `ahmadmelwan02@gmail.com`
+- You can reach me by email `ahmadmelwan02@gmail.com`
 
 - Passionate `learning new things` 🔥
 </p>
