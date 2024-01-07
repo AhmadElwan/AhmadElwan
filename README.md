@@ -27,7 +27,7 @@
 ## My Skills
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=javascript,typescript" /><br>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,html" /><br>
 <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb" /><br>
 <img src="https://skillicons.dev/icons?i=java,cpp,python" /><br>
 <img src="https://skillicons.dev/icons?i=github,git,docker" /> <br>
