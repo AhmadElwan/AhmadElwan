@@ -25,6 +25,6 @@
 <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb" /><br>
 <img src="https://skillicons.dev/icons?i=java,cpp,python" /><br>
 <img src="https://skillicons.dev/icons?i=github,git,docker" /> <br>
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,intellij" /> <br>
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,idea" /> <br>
 <a href="https://linkedin.com/in/ahmadelwan" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="ahmadelwan" /></a>
 </p>
