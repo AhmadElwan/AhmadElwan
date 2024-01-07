@@ -22,5 +22,5 @@
 ## Connect with me
 <p align="left">
 <img src="https://skillicons.dev/icons?i=vscode,github,git" /> <br>
-<a href="https://linkedin.com/in/ahmadelwan" target="blank"><img src="https://skillicons.dev/icons?i=vscode,github,git" alt="ahmadelwan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmadelwan" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="ahmadelwan" height="30" width="40" /></a>
 </p>
