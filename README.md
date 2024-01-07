@@ -32,5 +32,5 @@
 <img src="https://skillicons.dev/icons?i=java,cpp,python" /><br>
 <img src="https://skillicons.dev/icons?i=github,git,docker" /> <br>
 <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea" /> <br>
-<img src="https://skillicons.dev/icons?i=postman,xd,unity" /> <br>
+<img src="https://skillicons.dev/icons?i=unity,postman,xd" /> <br>
 </p>
