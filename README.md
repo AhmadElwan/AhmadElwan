@@ -21,11 +21,16 @@
 
 ## Connect with me
 <p align="left">
+<a href="https://linkedin.com/in/ahmadelwan" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="ahmadelwan" /></a>
+</p>
+
+## My Skills
+
+<p align="left">
 <img src="https://skillicons.dev/icons?i=javascript,typescript" /><br>
 <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb" /><br>
 <img src="https://skillicons.dev/icons?i=java,cpp,python" /><br>
 <img src="https://skillicons.dev/icons?i=github,git,docker" /> <br>
 <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea" /> <br>
 <img src="https://skillicons.dev/icons?i=postman,xd,unity" /> <br>
-<a href="https://linkedin.com/in/ahmadelwan" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="ahmadelwan" /></a>
 </p>
