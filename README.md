@@ -43,4 +43,11 @@
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/AhmadElwan/Ecommerce" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadElwan&repo=Ecommerce&title_color=8b61ff&text_color=c9d1d9&icon_color=8b61ff&bg_color=0d1117&hide_border=true&locale=en" /></a><a href="https://github.com/AhmadElwan/SocialMedia-API" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadElwan&repo=SocialMedia-API&title_color=8b61ff&text_color=c9d1d9&icon_color=8b61ff&bg_color=0d1117&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/AhmadElwan/Ecommerce" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadElwan&repo=Ecommerce&title_color=8b61ff&text_color=c9d1d9&icon_color=8b61ff&bg_color=0d1117&border_color=c9d1d9&hide_border=false&locale=en" />
+  </a>
+  <a href="https://github.com/AhmadElwan/SocialMedia-API" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadElwan&repo=SocialMedia-API&title_color=8b61ff&text_color=c9d1d9&icon_color=8b61ff&bg_color=0d1117&border_color=c9d1d9&hide_border=false&locale=en" />
+  </a>
+</div><br /><br /><br /><br /><br /><br /><br />
