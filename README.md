@@ -14,7 +14,7 @@
   
 - I’m currently learning `Backend Development`
   
-- You can reach me by email <a href="mailto:ahmadmelwan02@gmail.com" style="text-decoration: none; color: inherit;">`ahmadmelwan02@gmail.com`</a>
+- You can reach me by email <a href="mailto:ahmadmelwan02@gmail.com" style="text-decoration: none;">`ahmadmelwan02@gmail.com`</a>
 
 - Passionate about `learning new things` 🔥
 </p>
