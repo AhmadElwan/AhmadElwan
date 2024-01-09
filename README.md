@@ -7,16 +7,18 @@
 
 
 ## About me
+
 <p align="left">
   
 - Bachelor's degree in Computer Science from Jordan University of Science and Technology (JUST).
   
 - I’m currently learning `Backend Development`
   
-- You can reach me by email `ahmadmelwan02@gmail.com`
+- You can reach me by email <a href="mailto:ahmadmelwan02@gmail.com">ahmadmelwan02@gmail.com</a>
 
-- Passionate `learning new things` 🔥
+- Passionate about `learning new things` 🔥
 </p>
+
 
 
 ## Connect with me
