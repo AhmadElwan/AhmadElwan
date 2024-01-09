@@ -37,10 +37,10 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AhmadElwan"><img src="https://github-readme-stats.vercel.app/api?username=AhmadElwan&show_icons=true&count_private=true&title_color=8b61ff&text_color=c9d1d9&icon_color=8b61ff&bg_color=c9d1d9&hide_border=true&show_icons=true" alt="AhmadElwan's GitHub stats" /></a>
+<a href="http://www.github.com/AhmadElwan"><img src="https://github-readme-stats.vercel.app/api?username=AhmadElwan&show_icons=true&count_private=true&title_color=8b61ff&text_color=c9d1d9&icon_color=8b61ff&bg_color=0d1117&hide_border=true&show_icons=true" alt="AhmadElwan's GitHub stats" /></a>
 
-<a href="https://github.com/AhmadElwan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadElwan&langs_count=10&title_color=8b61ff&text_color=c9d1d9&icon_color=8b61ff&bg_color=c9d1d9&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+<a href="https://github.com/AhmadElwan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadElwan&langs_count=10&title_color=8b61ff&text_color=c9d1d9&icon_color=8b61ff&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/AhmadElwan/Ecommerce" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadElwan&repo=Ecommerce&title_color=8b61ff&text_color=c9d1d9&icon_color=8b61ff&bg_color=c9d1d9&hide_border=true&locale=en" /></a><a href="https://github.com/AhmadElwan/SocialMedia-API" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadElwan&repo=SocialMedia-API&title_color=8b61ff&text_color=c9d1d9&icon_color=8b61ff&bg_color=c9d1d9&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/AhmadElwan/Ecommerce" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadElwan&repo=Ecommerce&title_color=8b61ff&text_color=c9d1d9&icon_color=8b61ff&bg_color=0d1117&hide_border=true&locale=en" /></a><a href="https://github.com/AhmadElwan/SocialMedia-API" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadElwan&repo=SocialMedia-API&title_color=8b61ff&text_color=c9d1d9&icon_color=8b61ff&bg_color=0d1117&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
