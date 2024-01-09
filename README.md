@@ -37,7 +37,7 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AhmadElwan"><img src="https://github-readme-stats.vercel.app/api?username=AhmadElwan&show_icons=true&count_private=true&title_color=8b61ff&text_color=c9d1d9&icon_color=8b61ff&bg_color=0d1117&hide_border=false&show_icons=true" alt="AhmadElwan's GitHub stats" /></a>
+<a href="http://www.github.com/AhmadElwan"><img src="https://github-readme-stats.vercel.app/api?username=AhmadElwan&show_icons=true&count_private=true&title_color=8b61ff&text_color=c9d1d9&icon_color=8b61ff&bg_color=0d1117&hide_border=false&show_icons=true&border_color=c9d1d9" alt="AhmadElwan's GitHub stats" /></a>
 
 <a href="https://github.com/AhmadElwan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadElwan&langs_count=10&title_color=8b61ff&text_color=c9d1d9&icon_color=8b61ff&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
@@ -51,3 +51,4 @@
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadElwan&repo=SocialMedia-API&title_color=8b61ff&text_color=c9d1d9&icon_color=8b61ff&bg_color=0d1117&border_color=c9d1d9&hide_border=false&locale=en" />
   </a>
 </div><br /><br /><br /><br /><br /><br /><br />
+
