@@ -39,13 +39,15 @@
 <img src="https://skillicons.dev/icons?i=unity,postman,xd" /> <br>
 </p>
 
-<b>My GitHub Stats</b>
+
+
+<b style="color: #8b61ff;">My GitHub Stats</b>
 
 <a href="http://www.github.com/AhmadElwan"></a>
 
 <a href="https://github.com/AhmadElwan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadElwan&langs_count=10&title_color=8b61ff&text_color=c9d1d9&icon_color=8b61ff&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
-<b style="color: #8b61ff;">Top Repositories</b>
+<b>Top Repositories</b>
 
 <div width="100%" align="center">
   <a href="https://github.com/AhmadElwan/Ecommerce" align="left">
