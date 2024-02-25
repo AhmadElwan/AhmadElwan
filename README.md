@@ -39,9 +39,9 @@
 <img src="https://skillicons.dev/icons?i=unity,postman,xd" /> <br>
 </p>
 
+</br>
 
-
-<b style="color: #8b61ff;">My GitHub Stats</b>
+<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/AhmadElwan"></a>
 
