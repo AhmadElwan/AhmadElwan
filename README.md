@@ -41,7 +41,7 @@
 
 </br>
 
-<b>My GitHub Stats</b>
+<h2>My GitHub Stats</h2>
 
 <a href="http://www.github.com/AhmadElwan"></a>
 
