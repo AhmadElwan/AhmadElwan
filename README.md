@@ -12,11 +12,10 @@
   
 - Bachelor's degree in Computer Science from Jordan University of Science and Technology (JUST).
   
-- I’m currently learning `Backend Development`
+- I’m currently learning `Backend Development` 🔥
   
 - You can reach me by email `ahmadmelwan02@gmail.com`
 
-- Passionate about `learning new things` 🔥
 </p>
 
 
