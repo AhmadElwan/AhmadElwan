@@ -1,6 +1,6 @@
 
 <h1 align ="center">Hi 👋, I'm Ahmad Elwan</h1>
-<h3 align ="center">I am working on becoming a Backend Developer.</h3>
+<h3 align ="center">Backend Developer.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AhmadElwan&label=Profile%20views&color=0e75b6&style=flat" alt="AhmadElwan" />
 </p>
