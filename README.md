@@ -41,9 +41,9 @@
 </br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadelwan&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadelwan&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadelwan&show_icons=true&theme=gruvbox&hide=contribs,prs,starts,issues&count_private=true)
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadelwan&show_icons=true&theme=tokyonight&hide=contribs,prs,starts,issues&count_private=true)
 
 
