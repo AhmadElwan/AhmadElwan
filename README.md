@@ -41,5 +41,5 @@
 </br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadelwan&layout=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadelwan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
