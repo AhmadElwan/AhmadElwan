@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmadelwan&label=Profile%20views&color=fc7b03&style=flat" alt="ahmadelwan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadelwan" alt="ahmadelwan" /></a> </p>
+<p align="left", theme="dark"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadelwan" alt="ahmadelwan" /></a> </p>
 
 - 🔭 I’m currently working on **building REST APIs**
 
