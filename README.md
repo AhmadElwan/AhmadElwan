@@ -42,7 +42,7 @@
 </br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadelwan&show_icons=true&theme=tokyonight&title_color=e77307&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="ahmadelwan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadelwan&show_icons=true&theme=dark&title_color=e77307&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="ahmadelwan" /></p>
 
 </br>
 
