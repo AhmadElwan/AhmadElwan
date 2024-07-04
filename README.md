@@ -11,7 +11,7 @@
   
 - Bachelor's degree in Computer Science from Jordan University of Science and Technology (JUST).
   
-- 🔭 Working on **building REST APIs**
+- 🔭 Building **REST APIs**
 
 - 🌱 Learning **more about Nodejs, Expressjs and MongoDB**
 
